@@ -13,6 +13,7 @@
 		"onCommand:vscode-bevy.start"
 	],
 	"main": "./out/extension.js",
+	"license" : "(MIT OR Apache-2.0)",
 	"contributes": {
 		"commands": [
 			{
