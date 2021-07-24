@@ -4,7 +4,8 @@ This is an **experimental** vscode extension to run a [Bevy](https://bevyengine.
 
 ## Demo
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/5rl2we" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+[![5rl2we-1](https://user-images.githubusercontent.com/87893492/126881219-2a582e3b-36cb-4f62-877f-3c9ce719c88b.gif)](https://streamable.com/5rl2we)
+
 
 ## Usage
 
